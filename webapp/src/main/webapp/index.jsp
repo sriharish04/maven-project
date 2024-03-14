@@ -14,6 +14,7 @@
       <h2 class="text-center">First deploymment life cycle</h2>
       <h2 class="text-center">First deploymment life cycle using git pull git push commands</h2>
       <h2 class="text-center">First deploymment life cycle using git pull git push commands</h2>
+      <h2 class="text-center">Deployment using Git push base build and auto push to staging,production</h2>
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
