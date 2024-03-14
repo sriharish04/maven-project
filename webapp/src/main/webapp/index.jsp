@@ -17,7 +17,8 @@
       <h4 class="text-center">First deploymment life cycle5</h4>
       <h5 class="text-center">First deploymment life cycle7</h5>
       <h6 class="text-center">First deploymment life cycle8 4PM 14 March</h6>
- <h6 class="text-center">First deploymment life cycle8 5PM 14 March by git lab</h6>
+      <h6 class="text-center">First deploymment life cycle8 5PM 14 March by git lab1</h6>
+      <h6 class="text-center">First deploymment life cycle8 5PM 14 March by git lab3</h6>
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
