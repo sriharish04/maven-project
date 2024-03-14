@@ -15,7 +15,7 @@
       <h3 class="text-center">First deploymment life cycle1</h3>
       <h4 class="text-center">First deploymment life cycle1</h4>
       <h4 class="text-center">First deploymment life cycle5</h4>
-      <h5 class="text-center">First deploymment life cycle5</h5>
+      <h5 class="text-center">First deploymment life cycle6</h5>
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
  </center> </div>
 </body>
